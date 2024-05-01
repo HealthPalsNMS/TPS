@@ -13,3 +13,6 @@ Further code imports torch, torch.nn as variable name nn and matplotlib.pyplot a
 The next line, gives description of the data in the DataFrame.
 Following lines after running import numpy python package as np, seaborn as sns and from the sklearn.linear_model pachages imports LinearRegression(Ai Model used in the code.)
 hrough the last line, A linear regression  is generated, giving the final output and showing which age group has the highest cholesterol level(*Note 1 refers to the cholesterol level being low, 2 normal and 3 high respectively. )
+
+
+ALL files are attached in the repository
