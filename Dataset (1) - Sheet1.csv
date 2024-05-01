@@ -1,0 +1,300 @@
+Patient Name,Date of checkup,Date of recheckup,Checked By,Disease,Fever,Cough,Fatigue,Difficulty in Breathing,Age,Gender,Blood Pressure,Cholesterol Level,Fee
+Aanya Kapoor,2024-02-29,NIL,Dr.Shubham Tendulkar,Influenza,Yes,No,Yes,Yes,19,Female,Low,Normal,
+Aariya Gupta,2024-01-12,2024-01-15,Dr. Gaurav Vijay,Stroke,No,Yes,Yes,No,55,Female,High,High,450
+Aarthi Sharma,2024-03-20,NIL,Dr.Sumit Maheshwari,Common Cold,No,Yes,Yes,No,25,Female,Normal,Normal,300
+Aarti Sharma,2024-02-07,2024-02-12,Dr. Robert Kakkad,Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,350
+Abhay Arora,2024-01-23,2024-01-30,Dr. Shubham Tendulkar,Bronchitis,No,No,Yes,Yes,55,Male,High,High,400
+Abhay Mehra,2024-03-09,2024-03-31,Dr.Rohit Sharma,Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,350
+Abhay Sekhon,2024-02-15,2024-02-21,Dr. Sonu Simran,Osteoarthritis,Yes,No,Yes,Yes,45,Male,High,Normal,350
+Abhimanyu Basu,2024-01-04,2024-01-08,Dr. Shubham Tendulkar,Bronchitis,Yes,Yes,Yes,Yes,55,Male,High,Normal,400
+Abhimanyu Das,2024-03-27,NIL,Dr.Rohit Sharma,Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,350
+Abhimanyu Singh,2024-02-02,2024-02-14,Dr. Shubham Tendulkar,Pneumonia,Yes,Yes,Yes,Yes,45,Male,High,High,350
+Abhinav Shukla,2024-01-19,2024-01-24,Dr.Rohit Sharma,Asthma,Yes,No,No,Yes,28,Male,High,Normal,350
+Abhinav Sodhi,2024-03-14,2024-03-23,Dr. Saif Ur Rehman,Tetanus,No,No,Yes,No,45,Male,Normal,High,350
+Aditi Choudhary,2024-02-22,2024-02-27,Dr. Rihanna Agarwal,Osteoporosis,Yes,Yes,Yes,No,45,Female,Normal,High,350
+Aditi Patel,2024-01-31,NIL,Dr.Anita Verma,Eczema,No,Yes,Yes,No,25,Female,Normal,Normal,400
+Aditya Acharya,2024-03-05,2024-03-14,Dr.K.K Khandelwal,Diabetes,No,No,No,No,29,Male,Low,Normal,450
+Aditya Anand,2024-02-10,2024-02-13,Dr.Vineeta Singh,Anemia,Yes,No,Yes,No,55,Male,Normal,Normal,350
+Aditya Sood,2024-01-26,2024-01-31,Dr. Saif Ur Rehman,Tetanus,No,No,Yes,No,45,Male,Normal,High,350
+Agastya Ambi,2024-03-22,2024-01-19,Dr.Sandeep Maheshwari,Depression,Yes,Yes,Yes,Yes,29,Male,High,Normal,350
+Agastya Surendra,2024-02-17,2024-02-22,Dr.Manoj Tiwari,Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,350
+Aisha Khan,2024-01-07,2024-01-19,Dr.Anita Verma,Eczema,Yes,No,No,No,25,Female,Normal,Normal,400
+Aishwarya Patel,2024-03-01,2024-03-12,Dr. Satya Gojo,Pneumocystis Pneumonia (PCP),Yes,Yes,Yes,No,45,Female,High,High,350
+Ajay Bhattacharya,2024-02-03,2024-02-07,Dr. Shivanshu Mehra,Urinary Tract Infection,Yes,Yes,Yes,No,29,Male,High,High,350
+Ajay Talwar,2024-01-20,NIL,Dr.Sukush Tiwari,Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,350
+Akanksha Singh,2024-03-15,2024-03-25,Dr.Shubham Tendulkar,Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,350
+Akanksha Singh,2024-02-23,2024-03-11,Dr. Tanvi Pujari,Scoliosis,No,No,No,No,45,Female,High,High,350
+Akash Chakravarty,2024-01-01,2024-01-09,Dr.Anita Verma,Eczema,No,Yes,Yes,No,30,Male,High,High,400
+Akash Chatterjee,2024-03-08,NIL,Dr.Sumit Maheshwari,Common Cold,Yes,No,Yes,Yes,55,Male,Normal,Low,300
+Akash Thakur,2024-02-13,2024-02-19,Dr.Sumit Maheshwari,Allergic Rhinitis,Yes,No,No,No,50,Male,High,High,400
+Akshara Malhotra,2024-01-24,2024-01-31,Dr.Shubham Tendulkar,Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,350
+Akshat Damodar,2024-03-21,2024-03-24,Dr.Rohit Gill,Gastroenteritis,Yes,Yes,Yes,No,30,Male,High,High,350
+Akshat Tiwari,2024-02-18,2024-02-23,Dr.Vineeta Singh,Anemia,No,No,Yes,No,50,Male,Normal,Normal,350
+Akshay Dhawan,2024-01-09,2024-01-10,Dr.Rohit Gill,Esophageal Cancer,No,No,Yes,No,55,Male,Normal,Normal,550
+Alia Joshi,2024-03-04,2024-03-14,Dr.Manoj Tiwari,Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,350
+Alia Mehra,2024-02-09,2024-02-13,Dr.Vineeta Singh,Sickle Cell Anemia,No,No,Yes,No,45,Female,Normal,Normal,350
+Alisha Rao,2024-03-28,2024-01-31,Dr.Shubham Tendulkar,Influenza,No,Yes,No,No,42,Female,Normal,High,350
+Alisha Rao,2024-02-21,2024-03-30,Dr. Kamna Sharma,Liver Disease,Yes,Yes,Yes,No,45,Female,Normal,High,550
+Alisha Rao,2024-01-25,2024-02-26,Dr.Shubman Malhotra,Migraine,No,No,No,No,45,Female,Low,Normal,350
+Alisha Sharma,2024-01-16,2024-01-24,Dr.Shubh Mehta,Fibromyalgia,No,No,Yes,No,40,Female,High,High,350
+Amara Desai,2024-03-11,2024-03-21,Dr.Manoj Tiwari,Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,350
+Amit Dasgupta,2024-02-06,2024-02-08,Dr. Rajiv Verma,Hepatitis,Yes,Yes,Yes,Yes,30,Male,High,Normal,350
+Amit Tripathi,2024-01-22,2024-01-30,Dr.Sandeep Maheshwari,Anxiety Disorders,No,No,Yes,No,50,Male,Normal,Normal,350
+Amitabh Ghosh,2024-03-19,2024-03-26,Dr. Kamna Sharma,Liver Disease,No,Yes,Yes,No,55,Male,High,Low,550
+Amrita Gupta,2024-02-28,2024-03-13,Dr.Pratap Goyal,Hypertension,No,No,No,No,48,Female,Low,High,350
+Ananya Menon,2024-01-10,2024-01-25,Dr.Sumit Maheshwari,Allergic Rhinitis,No,Yes,Yes,No,29,Female,Normal,Low,400
+Ananya Reddy,2024-03-03,2024-03-13,Dr.Rohit Saraf,Cholera,Yes,No,Yes,Yes,50,Female,High,High,350
+Anaya Khan,2024-02-08,2024-02-12,Dr. Namiya Pujawali,"Eating Disorders (Anorexia,...",No,No,Yes,No,40,Female,High,High,370
+Anika Mathur,2024-03-23,2024-01-31,Dr.Rohit Gill,Crohn's Disease,No,No,Yes,No,45,Female,High,High,350
+Anika Mathur,2024-02-19,2024-03-18,Dr.Manoj Tiwari,Hypoglycemia,No,No,Yes,No,40,Female,High,High,350
+Anika Mathur,2024-01-27,2024-02-24,Dr.Manoj Tiwari,Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,350
+Anjali Kapoor,2024-01-14,2024-01-17,Dr.Rohit Saraf,Cholera,Yes,No,Yes,Yes,50,Female,High,High,350
+Anjali Verma,2024-03-07,2024-03-29,Dr.Sandeep Maheshwari,Anxiety Disorders,No,Yes,No,No,29,Female,Normal,High,350
+Ankita Verma,2024-02-12,2024-02-18,Dr.Sandeep Maheshwari,Depression,No,Yes,Yes,No,50,Female,Low,Low,350
+Anusha Rao,2024-01-29,NIL,Dr.Sumit Maheshwari,Common Cold,No,No,No,No,29,Female,Low,Normal,300
+Arjun Banerjee,2024-03-26,2024-03-28,Dr.Rohit Gill,Crohn's Disease,No,No,Yes,No,50,Male,Normal,High,350
+Arjun Devan,2024-02-25,2024-03-06,Dr. Shivanshu Mehra,Kidney Cancer,No,No,Yes,No,30,Male,Normal,Normal,500
+Arjun Valecha,2024-01-05,2024-01-11,Dr.Rohit Gill,Crohn's Disease,Yes,Yes,Yes,No,50,Male,Normal,High,350
+Arnav Dubey,2024-03-29,2024-04-10,Dr.Radha Sharma,Muscular Dystrophy,No,No,Yes,No,30,Male,High,High,350
+Ashish Ganguly,2024-02-20,2024-02-25,Dr.Vineeta Singh,Sickle Cell Anemia,No,No,Yes,No,30,Male,Normal,Normal,350
+Ayush Ghosh,2024-01-15,2024-01-24,Dr. Shubham Tendulkar,Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,400
+Ayush Jindal,2024-03-10,2024-03-20,Dr.Radha Sharma,Marfan Syndrome,No,No,Yes,No,55,Male,High,High,350
+Balram Gurtu,2024-02-14,2024-02-20,Dr. Shubham Tendulkar,Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,400
+Bhairavi Dutta,2024-01-30,2024-02-05,Dr. Rohit Gill,Gastroenteritis,No,Yes,No,No,29,Female,Normal,Normal,350
+Bharat Jagdish,2024-03-24,2024-03-27,Dr.Anita Verma,Eczema,Yes,No,No,No,30,Male,High,High,400
+Bharat Kapoor,2024-02-01,2024-02-07,Dr. Rihanna Agarwal,Osteoporosis,No,No,Yes,No,55,Male,High,Normal,350
+Bhaskar Jaiswal,2024-01-18,2024-01-31,Dr.Shubham Tendulkar,Influenza,Yes,Yes,Yes,No,30,Male,High,Normal,350
+Bhaskar Kohli,2024-03-13,2024-03-22,Dr.Sandeep Maheshwari,Hypertension,Yes,No,Yes,No,55,Male,High,Normal,350
+Bhavna Bhatia,2024-02-04,NIL,Dr.Pratap Goyal,Hypertension,No,Yes,No,No,50,Female,Normal,Low,350
+Bhumi Shah,2024-03-14,2024-03-24,Dr.Rohit Gill,Pancreatitis,Yes,No,No,No,29,Female,High,Normal,350
+Chandra Jha,2024-03-14,2024-03-25,Dr.Rohit Sharma,Asthma,No,No,No,Yes,31,Male,Normal,Low,350
+Chandraksh Mehra,2024-03-14,2024-03-26,Dr. Rihanna Agarwal,Osteoporosis,Yes,No,Yes,Yes,55,Male,High,Low,350
+Charulata Desai,2024-03-14,2024-03-27,Dr. Tanvi Pujari,Rheumatoid Arthritis,No,Yes,No,No,50,Female,Low,Normal,350
+Charvi Goyal,2024-03-14,NIL,Dr.Sumit Maheshwari,Common Cold,Yes,Yes,No,No,15,Female,Normal,Normal,300
+Chhavi Mehta,2024-03-14,2024-03-21,Dr. Tanvi Pujari,Rheumatoid Arthritis,No,Yes,Yes,Yes,29,Female,High,High,350
+Darshan Johal,2024-03-14,2024-03-22,Dr. Rihanna Agarwal,Osteoporosis,No,No,No,Yes,31,Male,Low,Normal,350
+Darshan Mishra,2024-03-14,2024-03-23,Dr. Devansh Bhawnani,Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,350
+Deepika Suri,2024-03-14,2024-03-24,Dr.Rohit Sharma,Asthma,Yes,Yes,Yes,Yes,50,Female,Normal,High,350
+Deepika Suri ,2024-01-29,2024-02-06,Dr. Shivanshu Mehra,Chronic Kidney Disease,No,No,Yes,No,60,Female,Normal,High,350
+Dev Kapoor,2024-01-29,NIL,Dr.Anupam Mittal,Common Cold,Yes,No,Yes,Yes,31,Male,High,High,300
+Devansh Gupta,2024-01-29,2024-02-07,Dr. Shivanshu Mehra,Kidney Cancer,No,Yes,No,No,50,Male,Low,High,500
+Devansh Nair,2024-01-29,2024-02-02,Dr. Devansh Bhawnani,Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,500
+Devika Maheshwari,2024-01-29,2024-02-08,Dr.Rohit Gill,Pancreatitis,Yes,Yes,Yes,No,60,Female,High,Normal,350
+Dhruv Kaur,2024-01-29,2024-01-03,Dr.Anita Verma,Acne,No,No,Yes,No,35,Male,Normal,Normal,350
+Dhruv Oberoi,2024-02-29,NIL,Dr.Shubham Tendulkar,Influenza,Yes,Yes,Yes,Yes,56,Male,High,High,350
+Diksha Mittal,2024-02-29,2024-03-16,Dr. Kamna Sharma,Liver Cancer,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,550
+Disha Iyer,2024-02-29,2024-03-06,Dr. Gaurav Vijay,Stroke,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,450
+Diya Kolhi,2024-02-29,2024-03-18,Dr.Sandeep Maheshwari,Depression,No,No,Yes,No,45,Female,High,High,350
+Diya Kolhi,2024-02-29,2024-03-19,Dr. Shubham Tendulkar,Pneumonia,No,Yes,Yes,Yes,43,Female,High,Normal,350
+Diya Malhotra,2024-02-29,2024-03-06,Dr.Nandini Kohli,Hemophilia,No,No,Yes,No,40,Female,Normal,Normal,350
+Diya Naidu,2024-02-29,NIL,Dr.Sumit Maheshwari,Common Cold,Yes,Yes,No,No,42,Female,High,High,300
+Eesha Gupta,2024-02-29,2024-03-22,Dr. Namita Lalaji,Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,350
+Esha Malhotra,2024-02-29,2024-03-23,Dr.Shubman Malhotra,Down Syndrome,No,No,Yes,No,50,Female,High,High,600
+Ganesh Kini,2024-02-29,NIL,Dr.Sumit Maheshwari,Common Cold,Yes,Yes,Yes,No,35,Male,High,Normal,300
+Garima Trivedi,2024-02-22,2024-02-28,Dr.Anita Verma,Eczema,No,Yes,No,No,50,Female,High,High,400
+Gauri Khan,2024-02-22,2024-02-29,Dr. Shivanshu Mehra,Kidney Disease,Yes,Yes,Yes,Yes,60,Female,High,High,500
+Gauri Prasad,2024-02-22,2024-03-01,Dr.Shubman Malhotra,Migraine,Yes,No,No,No,30,Female,Normal,Normal,350
+Gautam Khosla,2024-02-22,2024-03-02,Dr.Shubman Gajawat,Chronic Obstructive Pulmonary...,Yes,Yes,Yes,Yes,35,Male,Normal,Normal,350
+Gautam Pandit,2024-02-22,2024-03-03,Dr. Shubham Tendulkar,Pneumonia,Yes,Yes,No,Yes,57,Male,Normal,High,350
+Gayatri Bajaj,2024-02-22,2024-03-04,Dr. Namita Lalaji,Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,350
+Geeta Saxena,2024-02-22,NIL,Dr.Rohit Gill,Gastroenteritis,Yes,Yes,Yes,Yes,50,Female,High,Normal,350
+Geetanjali Chopra,2024-02-22,2024-03-06,Dr. Sonu Simran,Osteoarthritis,No,Yes,No,Yes,60,Female,Normal,Normal,350
+Girish Krishnan,2024-02-22,2024-03-07,Dr.Anita Verma,Eczema,No,Yes,No,No,35,Male,High,Normal,400
+Govind Kulkarni,2024-02-22,2024-03-08,Dr.Shubman Malhotra,Epilepsy,No,No,Yes,No,35,Male,High,High,350
+Govind Rao,2024-02-22,2024-03-09,Dr. Harshil Mota,Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,350
+Hansika Kapoor,2024-02-22,2024-03-10,Dr.Shubman Malhotra,Migraine,No,Yes,Yes,No,30,Female,Normal,Normal,350
+Hanuman Lal,2024-02-10,2024-02-14,Dr.Sandeep Maheshwari,Obsessive-Compulsive Disorde...,No,No,Yes,No,35,Male,Normal,Normal,350
+Hardik Sahni,2024-02-10,2024-02-14,Dr. Harshil Mota,Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,350
+Hari Madan,2024-02-10,2024-02-09,Dr. Shivanshu Mehra,Urinary Tract Infection (UTI),No,Yes,Yes,No,35,Male,High,High,350
+Harish Maheshwari,2024-02-10,NIL,Dr.Rohit Sharma,Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,350
+Harsh Mittal,2024-02-10,2024-02-11,Dr.Rohit Sharma,Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,350
+Harsh Sastry,2024-02-10,2024-02-12,Dr.Manoj Tiwari,Hyperthyroidism,No,No,Yes,No,60,Male,Normal,Normal,350
+Hema Joshi,2024-02-10,2024-02-13,Dr.Anita Verma,Acne,No,No,Yes,No,50,Female,Normal,Normal,350
+Himani Maheshwari,2024-02-10,2024-02-14,Dr.Shubham Tendulkar,Measles,Yes,Yes,No,No,60,Female,High,Normal,350
+Himanshu Nair,2024-02-10,2024-02-15,Dr.Rohit Gill,Gastroenteritis,Yes,No,Yes,Yes,35,Male,Low,High,350
+Himanshu Sharma,2024-02-10,2024-02-16,Dr. Shah Rukh Khan,Osteomyelitis,No,No,Yes,No,60,Male,Normal,Normal,350
+Inaya Chandra,2024-02-10,2024-02-17,Dr.K.K Khandelwal,Diabetes,Yes,No,No,No,40,Female,High,High,450
+Inaya Das,2024-01-14,2024-01-24,Dr.Rohit Gill,Ulcerative Colitis,Yes,Yes,No,No,30,Female,Normal,Normal,500
+Inaya Malhotra,2024-01-14,2024-01-25,Dr.Anaant Bihari,Cataracts,No,No,Yes,No,45,Female,Normal,High,350
+Inaya Naidu,2024-01-14,2024-01-26,Dr. Shubham Tendulkar,Hepatitis,Yes,No,Yes,No,45,Female,High,High,350
+Inaya Sharma,2024-01-14,2024-01-27,Dr. Shivanshu Mehra,Urinary Tract Infection,No,Yes,Yes,Yes,42,Female,Normal,Low,350
+Indrajit Pandey,2024-01-14,2024-01-28,Dr.Manoj Tiwari,Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,350
+Indrajit Singh,2024-01-14,NIL,Dr. Rihanna Agarwal,Osteoporosis,Yes,No,No,No,60,Male,High,High,350
+Isha Kolhi,2024-01-14,2024-01-16,Dr. Manushi Chillar,Rabies,Yes,Yes,No,No,40,Female,High,Normal,300
+Ishaan Haider,2024-01-14,2024-01-17,Dr. Shivanshu Mehra,Kidney Disease,No,Yes,No,Yes,50,Male,Normal,Normal,500
+Ishita Bose,2024-01-14,2024-01-18,Dr.Rohit Gill,Ulcerative Colitis,No,Yes,Yes,No,30,Female,Normal,Normal,500
+Ishita Shah,2024-01-14,2024-01-19,Dr.Rohit Gill,Pancreatic Cancer,No,No,Yes,No,50,Female,High,High,350
+Jagmohan Parekh,2024-01-14,2024-01-20,Dr.Manoj Tiwari,Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,350
+Jagmohan Suri,2024-01-14,2024-01-21,Dr. Rihanna Agarwal,Osteoporosis,No,Yes,No,No,60,Male,High,High,350
+Jahnvi Agarwal,2024-01-14,2024-01-22,Dr.Rohit Sharma,Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,350
+Jai Joshi,2024-01-05,2024-01-17,Dr.Luke Catellan,Sepsis,Yes,Yes,Yes,No,50,Male,Normal,Normal,350
+Jai Patel,2024-02-29,2024-03-03,Dr. Shivanshu Mehra,Kidney Cancer,No,No,Yes,No,35,Male,High,High,500
+Jai Prakash Tiwari,2024-02-29,2024-03-04,Dr. Rihanna Agarwal,Osteoporosis,No,Yes,No,No,60,Male,High,High,350
+Janhvi Mehta,2024-02-29,2024-03-05,Dr.Simra Fatima,Pneumothorax,No,No,Yes,Yes,50,Female,High,High,350
+Jayant Prabhu,2024-02-29,2024-03-06,Dr. Kamna Sharma,Liver Disease,No,No,Yes,No,35,Male,High,High,550
+Jayant Trivedi,2024-02-29,2024-03-07,Dr.Simra Fatima,Polio,Yes,Yes,Yes,No,60,Male,Normal,Normal,350
+Jeevan Raj,2024-02-29,2024-03-08,Dr.Namita Lalaji,Malaria,Yes,No,No,No,35,Male,High,High,350
+Jeevan Varma,2024-02-29,2024-03-09,Dr. Shubham Tendulkar,Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,350
+Jia Mathur,2024-02-29,2024-03-10,Dr. Virat Gale,Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,350
+Jitendra Rana,2024-02-29,2024-03-11,Dr.Namita Lalaji,Malaria,Yes,No,No,No,35,Male,High,High,350
+Jitendra Verma,2024-02-29,2024-03-12,Dr. Shubham Tendulkar,Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,350
+Juhi Agrawal,2024-02-29,2024-03-13,Dr.Rohit Gill,Ulcerative Colitis,No,Yes,Yes,No,50,Female,Normal,High,500
+Kabir Iyer,2024-02-29,2024-03-14,Dr.Rohit Gill,Pancreatitis,No,Yes,No,No,50,Male,Low,High,350
+Kabir Rao,2024-02-29,NIL,Dr.Shubman Malhotra,Migraine,No,Yes,Yes,No,35,Male,High,High,350
+Kabir Vij,2024-02-29,2024-03-02,Dr.Pratap Goyal,Hypertension,Yes,No,Yes,No,60,Male,High,Normal,350
+Kajal Singh,2024-01-10,2024-01-23,Dr.K.K Khandelwal,Diabetes,No,Yes,No,No,55,Female,Normal,High,450
+Kamal Malhotra,2024-01-10,NIL,Dr. Rihanna Agarwal,Osteoporosis,Yes,No,Yes,No,60,Male,High,Normal,350
+Kamal Reddy,2024-01-10,2024-01-21,Dr.Shubman Malhotra,Migraine,Yes,No,No,No,35,Male,High,High,350
+Kanika Sharma,2024-01-10,2024-01-22,Dr.Shanti Mehra,HIV/AIDS,Yes,No,No,No,55,Female,High,High,700
+Karan Khanna,2024-01-10,NIL,Dr.Vineeta Singh,Sickle Cell Anemia,No,No,Yes,No,50,Male,High,High,350
+Kartik Mathur,2024-01-10,2024-01-17,Dr. Shubman Malhotra,Parkinson's Disease,Yes,Yes,No,No,60,Male,High,Normal,350
+Kartik Roy,2024-01-10,2024-01-18,Dr.Rohit Gill,Pancreatitis,No,No,Yes,No,35,Male,Normal,High,350
+Keshav Saha,2024-01-10,2024-01-19,Dr. Tanvi Pujari,Rheumatoid Arthritis,Yes,Yes,Yes,No,35,Male,Normal,Low,350
+Khushi Chawla,2024-01-10,2024-01-20,Dr. Satya Gojo,HIV/AIDS,Yes,No,No,No,55,Female,High,High,700
+Kiara Chandra,2024-01-10,2024-01-21,Dr. Virat Gale,Asthma,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,350
+Kiran Pandey,2024-01-09,NIL,Dr.Pratap Goyal,Hypertension,No,Yes,No,No,55,Female,Normal,Low,350
+Kirti Kolhi,2024-01-10,2024-01-23,Dr.Shubman Malhotra,Brain Tumor,No,No,Yes,No,30,Female,High,High,500
+Krishna Sahu,2024-01-11,2024-01-24,Dr.Rohit Gill,Ulcerative Colitis,No,No,Yes,No,35,Male,High,High,500
+Kriti Thakkar,2024-01-10,2024-01-25,Dr. Shubham Tendulkar,Bronchitis,Yes,Yes,No,Yes,30,Female,Low,Normal,400
+Kumar Sanyal,2024-01-15,2024-01-26,Dr.Rohit Gill,Ulcerative Colitis,Yes,No,No,No,35,Male,High,High,500
+Lalit Sethi,2024-01-15,2024-01-27,Dr.Rohit Gill,Gastroenteritis,No,No,No,No,38,Male,Normal,Low,350
+Lavanya Singhania,2024-01-15,2024-01-28,Dr.Shubman Malhotra,Migraine,No,Yes,Yes,Yes,55,Female,Normal,Low,350
+Lavika Khandelwal,2024-01-13,2024-01-29,Dr.Rohit Sharma,Asthma,Yes,Yes,Yes,Yes,60,Female,High,High,350
+Leena Naidu,2024-01-14,2024-01-30,Dr.Shubman Malhotra,Cerebral Palsy,No,No,Yes,Yes,30,Female,Normal,Normal,550
+Likith Kumar,2024-01-15,2024-01-31,Dr. Shivanshu Mehra,Urinary Tract Infection,Yes,Yes,No,Yes,50,Male,High,Normal,350
+Likitha Rao,2024-01-16,2024-02-01,Dr. Jacqueline Gupta,Colorectal Cancer,No,No,Yes,No,30,Female,Normal,High,350
+Lokesh Sharma,2024-01-17,2024-02-02,Dr.Shubham Tendulkar,Influenza,No,No,No,No,38,Male,Normal,Normal,350
+Madhav Singh,2024-01-18,2024-02-03,Dr. Kamna Sharma,Liver Disease,No,Yes,No,Yes,38,Male,Low,Normal,550
+Mahika Kapoor,2024-01-15,2024-02-04,Dr.Shubman Gajawat,Hypertensive Heart Disease,No,No,Yes,No,30,Female,High,High,750
+Mahira Khan,2024-01-15,NIL,Dr.Shubham Tendulkar,Influenza,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,350
+Mala Kapoor,2024-01-15,2024-01-16,Dr. Shubman Malhotra,Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,350
+Manish Sinha,2024-01-14,NIL,Dr.Sandeep Maheshwari,Anxiety Disorders,Yes,No,Yes,Yes,38,Male,High,High,350
+Manisha Verma,2024-01-14,2024-01-18,Dr. Shubman Malhotra,Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,350
+Manvi Joshi,2024-01-14,2024-01-19,Dr. Robert Kakkad,Multiple Sclerosis,No,No,Yes,No,30,Female,High,High,350
+Mihir Malik,2024-01-14,2024-01-20,Dr. Shubham Tendulkar,Bronchitis,Yes,Yes,Yes,Yes,50,Male,High,High,400
+Mira Patel,2024-01-14,2024-01-21,Dr.Shubman Gajawat,Myocardial Infarction (Heart...,Yes,Yes,Yes,Yes,30,Female,High,High,350
+Mishka Singh,2024-01-14,2024-01-22,Dr. Shivanshu Mehra,Urinary Tract Infection (UTI),Yes,No,No,No,30,Female,Normal,Normal,350
+Mohan Suresh,2024-01-14,2024-01-23,Dr.Shubman Malhotra,Migraine,Yes,Yes,No,No,38,Male,High,High,350
+Mohit Subramaniam,2024-01-14,2024-01-24,Dr.K.K Khandelwal,Diabetes,Yes,No,Yes,Yes,38,Male,High,Low,450
+Mukesh Talwar,2024-01-12,2024-01-25,Dr. Sonu Simran,Osteoarthritis,Yes,Yes,Yes,No,38,Male,High,High,350
+Murli Thakur,2024-01-13,2024-01-26,Dr. Shubham Tendulkar,Pneumonia,Yes,Yes,Yes,Yes,38,Male,Normal,Normal,350
+Myra Chandra,2024-01-14,2024-01-27,Dr.Namita Lalaji,Lymphoma,No,Yes,No,No,40,Female,Normal,High,350
+Myra Khan,2024-01-15,2024-01-28,Dr. Kamna Sharma,Liver Disease,Yes,No,No,Yes,42,Female,Normal,Normal,550
+Myra Naidu,2024-01-16,NIL,Dr.Rohit Sharma,Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,350
+Myra Sharma,2024-01-17,2024-01-30,Dr. Gaurav Vijay,Stroke,Yes,Yes,No,No,38,Female,High,Normal,450
+Myra Thakkar,2024-01-16,2024-01-31,Dr.K.K Khandelwal,Diabetes,Yes,No,Yes,No,45,Female,High,High,450
+Myra Thakkar,2024-01-15,2024-02-01,Dr. Shubham Tendulkar,Hepatitis,Yes,No,Yes,No,45,Female,High,High,350
+Myra Thakkar,2024-01-14,NIL,Dr. Manushi Chillar,Rabies,Yes,Yes,No,No,40,Female,High,Normal,300
+Naina Khan,2024-01-17,2024-01-17,Dr. Harshil Patel,Zika Virus,No,Yes,Yes,No,45,Female,High,High,450
+Naina Malhotra,2024-01-18,2024-01-18,Dr.Sumit Maheshwari,Allergic Rhinitis,No,No,Yes,No,35,Female,Normal,Low,400
+Naina Mishra,2024-01-14,2024-01-19,Dr.Sandeep Maheshwari,Anxiety Disorders,Yes,Yes,No,No,55,Female,Normal,Low,350
+Naina Naidu,2024-01-15,2024-01-20,Dr.Manoj Tiwari,Hypothyroidism,No,No,Yes,No,45,Female,High,High,350
+Nakul Tiwari,2024-01-16,NIL,Dr.Anita Verma,Acne,No,No,Yes,No,40,Male,Normal,Normal,350
+Nandini Chopra,2024-01-17,2024-01-16,Dr.Shubman Malhotra,Migraine,Yes,No,No,No,31,Female,Normal,Normal,350
+Navya Sharma,2024-01-14,2024-01-17,Dr. Shubham Tendulkar,Pneumonia,Yes,No,Yes,Yes,32,Female,High,Normal,350
+Neel Trivedi,2024-01-14,2024-01-18,Dr.Shubman Malhotra,Brain Tumor,No,No,Yes,No,40,Male,Normal,Normal,500
+Neha Joshi,2024-01-14,2024-01-19,Dr. Harshil Mota,Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,350
+Neil Mehta,2024-01-14,2024-01-20,Dr. Limca Pepsi,Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,350
+Nihaal Kaur,2024-01-27,2024-01-31,Dr. Virat Gale,Asthma,No,Yes,Yes,Yes,35,Female,Normal,High,350
+Nikita Mehta,2024-01-27,2024-01-30,Dr. Virat Gale,Asthma,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,350
+Nishika Mittal,2024-01-27,2024-01-30,Dr. Virat Gale,Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,350
+Nitin Varma,2024-01-27,2024-01-31,Dr. Meena Tiwari,Cystic Fibrosis,No,No,Yes,Yes,40,Male,High,High,350
+Nitya Iyer,2024-01-27,2024-02-01,Dr. Virat Gale,Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,350
+Om Prakash,2024-01-27,2024-02-02,Dr. Limca Pepsi,Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,350
+Om Verma,2024-01-27,2024-02-03,Dr.Digraj Singh Rajput,Glaucoma,No,No,Yes,No,40,Male,High,Normal,350
+Piya Desai,2024-01-27,2024-02-04,Dr.Pratap Goyal,Hypertension,Yes,Yes,Yes,No,35,Female,High,Normal,350
+Pooja Bajaj,2024-01-07,2024-01-09,Dr. Shubham Tendulkar,Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,350
+Pooja Mehra,2024-01-08,2024-01-10,Dr. Harshil Mota,Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,350
+Prachi Gupta,2024-01-09,2024-01-11,Dr.Rohit Gill,Hemorrhoids,No,No,No,No,55,Female,High,High,350
+Prachi Prasad,2024-01-10,2024-01-12,Dr. Shubham Tendulkar,Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,350
+Pranav Raina,2024-01-11,2024-01-13,Dr. Kamna Sharma,Liver Cancer,No,Yes,Yes,Yes,50,Male,High,High,550
+Pranav Vij,2024-01-12,2024-01-14,Dr. Sonu Simran,Osteoarthritis,No,No,Yes,No,40,Male,High,Normal,350
+Priya Gupta,2024-01-13,NIL,Dr. Sukush Tiwari,Hyperthyroidism,Yes,Yes,Yes,No,35,Female,Normal,Normal,350
+Priya Rao,2024-01-14,2024-01-16,Dr.Manoj Tiwari,Hypothyroidism,No,No,Yes,No,55,Female,High,High,350
+Priyansh Ghusingha,2024-01-15,2024-01-17,Dr.Vineeta Singh,Acne,No,No,Yes,No,60,Male,High,High,350
+Radhika Singh,2024-01-16,2024-01-18,Dr. Sonu Simran,Osteoarthritis,Yes,Yes,No,No,55,Female,High,High,350
+Rahul Wadehra,2024-01-17,2024-01-19,Dr.Rohit Sharma,Asthma,Yes,No,Yes,No,40,Male,Low,Normal,350
+Rajeev Yadav,2024-01-18,2024-01-20,Dr.Rohit Sharma,Asthma,No,No,Yes,Yes,40,Male,High,High,350
+Rajesh Zaveri,2024-01-19,2024-01-21,Dr.Rohit Sharma,Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,350
+Ramesh Acharya,2024-03-14,2024-03-16,Dr. Virat Kohli,Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,350
+Ranbir Ambi,2024-03-14,2024-03-17,Dr.Selena Goyal,Chickenpox,No,Yes,No,No,40,Male,Normal,High,350
+Rashi Jain,2024-03-14,2024-03-18,Dr. Rihanna Agarwal,Osteoporosis,No,Yes,Yes,No,55,Female,Normal,Normal,350
+Rishi Roy,2024-03-14,2024-03-19,Dr.Namita Lalaji,Lyme Disease,Yes,No,No,No,50,Male,Normal,High,350
+Riya Kapoor,2024-03-14,2024-03-20,Dr.Anita Verma,Psoriasis,Yes,No,No,No,35,Female,Normal,Low,350
+Riya Malhotra,2024-03-14,2024-03-21,Dr. Rihanna Agarwal,Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,350
+Rohan Chakravarty,2024-03-16,2024-03-22,Dr.Rohit Gill,Gastroenteritis,Yes,Yes,Yes,No,40,Male,High,High,350
+Rohan Fernandes,2024-03-17,2024-03-23,Dr.Manoj Tiwari,Hypothyroidism,Yes,Yes,Yes,No,50,Male,Normal,High,350
+Rohit Bhattacharya,2024-03-18,2024-03-24,Dr.Selena Goyal,Chickenpox,No,Yes,No,No,40,Male,Normal,High,350
+Ruchi Sharma,2024-03-19,2024-03-25,Dr. Rihanna Agarwal,Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,350
+Rudra Damodar,2024-03-20,2024-03-26,Dr.Sukush Tiwari,Hyperthyroidism,No,No,Yes,No,40,Male,High,High,350
+Saanvi Khan,2024-03-21,2024-03-27,Dr.Anita Verma,Psoriasis,No,Yes,Yes,No,35,Female,Normal,Low,350
+Sakshi Sharma,2024-03-22,2024-03-28,Dr. Urvashi Goyal,Rubella,Yes,No,Yes,No,35,Female,High,Normal,350
+Samar Dasgupta,2024-03-23,2024-03-29,Dr.Anita Verma,Psoriasis,No,Yes,Yes,No,40,Male,High,Normal,350
+Sameer Devan,2024-03-24,2024-03-30,Dr.Anita Verma,Psoriasis,Yes,No,No,No,40,Male,High,Normal,350
+Samri Bohra,2024-03-25,2024-03-31,Dr.Sandeep Maheshwari,Hypertension,No,No,Yes,No,60,Female,High,Normal,350
+Sandeep Dubey,2024-03-26,2024-04-01,Dr. Kush Sharma,Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,450
+Sanjana Malhotra,2024-03-27,2024-04-02,Dr. Urvashi Goyal,Rubella,Yes,No,Yes,No,35,Female,High,Normal,350
+Sanjay Ganguly,2024-01-14,2024-01-18,Dr. Kush Sharma,Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,450
+Santosh Ghosh,2024-01-14,2024-01-19,Dr.Sandeep Maheshwari,Anxiety Disorders,No,No,No,No,42,Male,Low,Normal,350
+Sara Mathur,2024-01-14,2024-01-20,Dr. Bheem Raj,Cirrhosis,No,No,Yes,No,35,Female,Normal,High,350
+Sara Mathur,2024-01-14,2024-01-21,Dr.Nandini Kohli,Hemophilia,No,No,Yes,No,60,Female,Normal,Normal,350
+Satish Gurtu,2024-01-14,2024-01-22,Dr.Sandeep Maheshwari,Depression,Yes,No,No,Yes,42,Male,High,Normal,350
+Sejal Chandra,2024-01-14,2024-01-23,Dr. Krishna Ronaldo,Conjunctivitis (Pink Eye),No,Yes,No,No,35,Female,High,High,350
+Shashank Jagdish,2024-01-14,2024-01-24,Dr. Kamna Sharma,Liver Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,550
+Shreya Kolhi,2024-01-14,NIL,Dr.Sandeep Maheshwari,Depression,No,No,Yes,No,35,Female,Normal,High,350
+Shreyas Jha,2024-01-14,2024-01-26,Dr.Shubman Malhotra,Migraine,Yes,Yes,Yes,No,42,Male,High,High,350
+Shubham Jaiswal,2024-01-11,2024-01-13,Dr.Shubham Tendulkar,Lung Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,450
+Siddhant Johal,2024-01-11,2024-01-14,Dr. Sonu Simran,Osteoarthritis,No,No,Yes,No,42,Male,Normal,Low,350
+Siddharth Kapoor,2024-01-11,2024-01-15,Dr. Gaurav Vijay,Stroke,Yes,No,Yes,No,42,Male,Normal,Low,450
+Siya Malhotra,2024-01-11,NIL,Dr.Sukush Tiwari,Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,350
+Siya Sharma,2024-01-11,2024-01-17,Dr. Harshil Patel,Zika Virus,No,Yes,Yes,No,45,Female,High,High,450
+Siya Thakkar,2024-01-15,2024-01-18,Dr. Kamna Sharma,Liver Cancer,No,No,Yes,No,35,Female,High,High,550
+Siya Thakkar,2024-01-11,2024-01-19,Dr.Anita Verma,Psoriasis,No,Yes,No,No,40,Female,Normal,High,350
+Sneha Naidu,2024-01-15,2024-01-20,Dr. Tanvi Pujari,Rheumatoid Arthritis,No,No,Yes,No,35,Female,Normal,Low,350
+Soham Kaur,2024-01-15,2024-01-21,Dr.K.K Khandelwal,Diabetes,Yes,Yes,Yes,No,42,Male,High,Normal,450
+Soham Seth,2024-01-15,2024-01-22,Dr.Namita Lalaji,Lyme Disease,Yes,No,No,No,50,Male,Normal,High,350
+Sonakshi Rao,2024-01-15,2024-01-23,Dr.Vineeta Singh,Sickle Cell Anemia,No,No,Yes,No,35,Female,Normal,Normal,350
+Sumit Khosla,2024-01-15,NIL,Dr.Sumit Maheshwari,Allergic Rhinitis,No,Yes,Yes,No,45,Male,High,Normal,400
+Sumit Talwar,2024-01-15,2024-01-25,Dr. Gaurav Vijay,Stroke,No,Yes,Yes,Yes,50,Male,High,Normal,450
+Sunny Kini,2024-02-01,2024-02-03,Dr.Vineeta Singh,Anemia,No,No,Yes,No,45,Male,Normal,Normal,350
+Suraj Krishnan,2024-02-01,2024-02-04,Dr.Rohit Gill,Crohn's Disease,Yes,No,Yes,No,45,Male,High,Normal,350
+Surya Kulkarni,2024-02-01,2024-02-05,Dr. Mahi Choudhary,Hyperglycemia,No,No,Yes,No,45,Male,Normal,Normal,350
+Swara Kapoor,2024-02-01,2024-02-06,Dr. Shivanshu Mehra,Urinary Tract Infection,Yes,No,Yes,No,35,Female,Normal,High,350
+Tanisha Bumb,2024-02-01,2024-02-07,Dr. Shivanshu Mehra,Kidney Cancer,Yes,Yes,Yes,No,60,Female,High,Normal,500
+Tanishka Tambi,2024-02-01,2024-02-08,Dr. Shivanshu Mehra,Kidney Cancer,No,Yes,Yes,Yes,45,Male,Normal,Low,500
+Tanmay Lal,2024-02-01,2024-02-09,Dr.Sandeep Maheshwari,Depression,No,No,No,No,38,Female,Normal,High,350
+Tanya Joshi,2024-02-01,2024-02-10,Dr.Sumit Maheshwari,Allergic Rhinitis,No,Yes,No,No,38,Female,Low,Normal,400
+Tara Khan,2024-02-01,2024-02-11,Dr.Shubham Tendulkar,Measles,Yes,Yes,No,No,60,Female,High,Normal,350
+Uday Madan,2024-02-01,2024-02-12,Dr. Shivanshu Mehra,Kidney Disease,Yes,Yes,No,No,45,Male,Normal,High,500
+Uday Verma,2024-02-01,2024-02-13,Dr.Pratap Goyal,Hypertension,Yes,Yes,No,No,52,Male,Normal,Low,350
+Udit Maheshwari,2024-02-07,2024-02-14,Dr.Anita Verma,Melanoma,Yes,No,Yes,No,45,Male,High,Normal,350
+Umang Mittal,2024-02-08,2024-02-15,Dr.Shanti Mehra,Ovarian Cancer,No,No,Yes,No,45,Male,Normal,Normal,350
+Urvashi Patel,2024-02-09,2024-02-16,Dr. Shivanshu Mehra,Kidney Disease,No,No,Yes,No,38,Female,Low,Normal,500
+Vaani Singh,2024-02-10,2024-02-17,Dr. Kamna Sharma,Liver Cancer,Yes,Yes,No,No,38,Female,High,Normal,550
+Vaibhav Nair,2024-02-11,2024-02-18,Dr.Rohit Gill,Pancreatitis,No,Yes,Yes,Yes,45,Male,Normal,Low,350
+Vanya Temani,2024-03-26,2024-03-28,Dr.Pratap Goyal,Hypertension,No,No,No,No,60,Female,High,High,350
+Vedika Chopra,2024-03-26,2024-03-29,Dr. Rihanna Agarwal,Osteoporosis,No,Yes,No,No,38,Female,Normal,High,350
+Vikram Pandey,2024-03-26,2024-03-30,Dr. Tanvi Pujari,Rheumatoid Arthritis,Yes,No,No,No,45,Male,Normal,Normal,350
+Vikrant Parekh,2024-03-26,2024-03-31,Dr. Gaurav Vijay,Stroke,No,No,Yes,No,45,Male,Normal,Normal,450
+Vinay Patel,2024-03-26,2024-04-01,Dr. Johanna Pasta,Turner Syndrome,No,No,Yes,No,45,Male,High,High,350
+Vipul Prabhu,2024-03-26,2024-04-02,Dr. Johanna Pasta,Turner Syndrome,No,No,Yes,No,45,Male,High,High,350
+Viraj Wadhwani,2024-03-26,2024-04-03,Dr. Robert Kakkad,Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,350
+Vivek Chandra,2024-03-26,2024-04-04,Dr.K.K Khandelwal,Diabetes,No,Yes,No,No,50,Male,Normal,High,450
+Vivek Raj,2024-03-26,2024-04-05,Dr.Sumit Maheshwari,Allergic Rhinitis,Yes,Yes,Yes,No,45,Male,High,Normal,400
+Yadu Rana,2024-03-26,2024-04-06,Dr.Sandeep Maheshwari,Anxiety Disorders,Yes,Yes,Yes,No,45,Male,High,Normal,350
+Yash Dalal,2024-01-01,2024-01-03,Dr.Shanti Mehra,Endometriosis,Yes,No,No,No,50,Male,High,Normal,650
+Yash Rao,2024-01-01,2024-01-04,Dr. Rohit Sharma,Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,350
+Yogesh Reddy,2024-01-01,2024-01-05,Dr. Rohit Sharma,Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,350
+Yugansh Yadav,2024-01-01,2024-01-06,Dr. Robert Kakkad,Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,350
+Yuvan Roy,2024-01-01,2024-01-07,Dr.K.K Khandelwal,Diabetes,No,Yes,Yes,No,45,Male,Normal,High,450
+Yuvraj Saha,2024-01-02,NIL,Dr.Pratap Goyal,Hypertension,Yes,No,Yes,No,45,Male,Normal,High,350
+Zara Chandra,2024-01-04,2024-01-09,Dr.Rohit Gill,Crohn's Disease,Yes,Yes,Yes,No,45,Female,High,High,350
+Zara Chandra,2024-01-03,2024-01-10,Dr. Shivanshu Mehra,Kidney Disease,Yes,No,Yes,No,42,Female,High,Low,500
+Zara Kapoor,2024-01-12,2024-01-11,Dr. Harshil Mota,Coronary Artery Disease,No,No,Yes,No,40,Female,High,High,350
+Zara Kapoor,2024-01-07,2024-01-12,Dr. Shivanshu Mehra,Kidney Cancer,Yes,No,No,No,42,Female,Normal,Normal,500
+Zara Kapoor,2024-01-06,2024-01-13,Dr. Robert Kakkad,Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,350
+Zara Kapoor,2024-01-05,2024-01-14,Dr. Shivanshu Mehra,Urinary Tract Infection,No,No,No,No,45,Female,Low,Normal,350
+Zara Kolhi,2024-01-12,2024-01-15,Dr. Shubham Tendulkar,Pneumonia,Yes,Yes,Yes,Yes,40,Female,Normal,High,350
+Zara Mathur,2024-01-12,2024-01-16,Dr. Shubham Tendulkar,Bronchitis,No,Yes,No,Yes,40,Female,Normal,Normal,400
+Zoya Malhotra,2024-01-12,2024-01-17,Dr.Anita Verma,Acne,No,No,Yes,No,39,Female,Normal,Normal,350
+Zoya Rao,2024-01-12,2024-01-18,Dr.Rohit Sharma,Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,350
